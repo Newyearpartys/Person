@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hi{
+   color: black;
+   
+}
+.heading{
+    font-size: 50px;
+    text-align: center;
+    justify-content: centre;
+    padding-top: 40px;
+}
+.dt{
+    padding-left: 600px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.npc{
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.food{
+    margin-top: 500px;
+    font-size: 10px;
+    margin-bottom: 30px;
+    
+}
+.sec{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    font-size: 30px;
+}
+.name{
+ 
+    width: 70%;
+    margin-top: 60px;
+    height:40px ;
+    border-color: #2c2c2c8d;
+    font-size: 30px;
+    padding-left: 20px;
+    
+}
+
+
+.dj{
+    width: 30%;
+    height: 40px;
+    border-color:#2c2c2c8d ;
+    font-size: 40px;
+    padding-left: 20px;
+}
+.img2{
+    
+}
+.2mg{
+    display: flex;
+    
+}
+.fmg{
+    border-radius: 100px;
+    border-color: skyblue;
+    border: 2px;
+    
+}
+.pvt{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.forflex{
+    display: flex; 
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    border: 4px seagreen;
+    border-color: red;
+    background-color: red;
+    font-size: 40px;
+    color: blue;
+    
+}
+.img2{
+    padding-left: 260px;
+    border-radius: 20px;
+}
+.img1{
+    padding-left: 40px;
+    border-radius: 20px;
+}
+.2mg img{
+    border-radius: 50px;
+}
+.happy{
+    font-size: 100px;
+    margin-top: 50px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+  
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: ;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: -4px 4px #ef3550,
+               -8px 8px #f48fb1,
+               -12px 12px #7e57c2,
+               -16px 16px #2196f3,
+               -20px 20px #26c6da,
+               -24px 24px #43a047,
+               -28px 28px #eeff41,
+               -32px 32px #f9a825,
+                  -36px 36px #ff5722;
+}
+.pad{
+    margin-top: 3px;
+}
